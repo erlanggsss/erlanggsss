@@ -21,7 +21,7 @@ I am a final-year Informatics student with a strong interest in data analysis an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erlanggsss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img align='left' width="35%" src='https://github-readme-streak-stats.herokuapp.com/?user=erlanggsss&theme=dark&hide_border=false'/>
 
-
+<img src="gif_done1.gif" align="center" style="width: 100%" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=erlanggsss&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
