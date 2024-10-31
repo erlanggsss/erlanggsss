@@ -27,7 +27,6 @@ I am a final-year Informatics student with a strong interest in data analysis an
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=erlanggsss&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-![](https://github-contributor-stats.vercel.app/api?username=erlanggsss&limit=5&theme=6e804c&combine_all_yearly_contributions=true)
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erlanggsss&theme=github-compact&area=true&hide_border=true)
