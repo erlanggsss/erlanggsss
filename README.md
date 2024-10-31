@@ -10,7 +10,7 @@ I am a final-year Informatics student with a strong interest in data analysis an
 
 - 🔭 I’m currently studying at [Bangkit Academy 2024 Batch 2  - Machine Learning](undefined)
 - 🌱 I’m currently learning **Deep Learning AI Tensorflow**
-- 📫 You can reach me **[Email](gaaerlang03@gmail.com)**
+- 📫 You can reach me gaaerlang03@gmail.com
 - ⚡ Laziness kills ambition, Fear kills dreams
 
 
