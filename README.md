@@ -1,5 +1,5 @@
 <h1 align="Left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E804C&random=false&width=600&lines=Hi+There!+I'm+Muhammad+Erlangga+Prasetya👋;" /></h1> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8EB573&random=false&width=600&lines=Hi+There!+I'm+Muhammad+Erlangga+Prasetya👋;" /></h1> 
 <div align="center">
 <img src="gif_done2.gif" align="center" style="width: 100%" />
 </div>
