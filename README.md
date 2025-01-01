@@ -1,13 +1,13 @@
-<h1 align="Left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8EB573&random=false&width=600&lines=Hi+There!+I'm+Muhammad+Erlangga+Prasetya👋;" /></h1> 
+<h1 align="Center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8EB573&random=false&width=500&lines=Hi+There!+I'm+Muhammad+Erlangga+Prasetya;" /></h1> 
 
 <br/>
 
-I am a final-year Informatics student with a strong interest in data analysis and a critical approach to exploring insights within data. I have a solid foundation in cloud computing and am driven by a continuous ambition for professional growth.
-
 I’m currently studying at [Bangkit Academy 2024 Batch 2  - Machine Learning](undefined)
 
-I’m currently learning **Deep Learning AI Tensorflow**
+I’m currently learning **Natural Language Processing**
+
+Reach me **gaaerlang03@gmail.com**
 
 
 ## 💻 Tech Stack:
