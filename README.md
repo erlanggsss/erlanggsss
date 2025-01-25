@@ -3,8 +3,6 @@
 
 <br/>
 
-I’m currently studying at [Bangkit Academy 2024 Batch 2  - Machine Learning](undefined)
-
 I’m currently learning **Natural Language Processing**
 
 Reach me **gaaerlang03@gmail.com**
