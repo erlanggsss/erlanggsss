@@ -3,12 +3,12 @@
 
 <br/>
 
-I’m currently learning **Natural Language Processing**
+I’m currently learning **ETL Pipeline**
 
 Reach me **gaaerlang03@gmail.com**
 
 
-## 💻 Tech Stack:
+## 💻 Technologies and languages that I have used:
 [![My Skills](https://skillicons.dev/icons?i=javascript,python,nodejs,expressjs,nextjs,flask,fastapi,tensorflow,postgres,mysql,firebase,postman,docker,googlecloud,git,github,figma&theme=light)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
